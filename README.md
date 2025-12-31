@@ -8,7 +8,7 @@ Mon approche met l’accent sur une **architecture claire**, la **qualité du co
 
 ## 🛠️ Stack principale
 
-- **Langage** : Java 17
+- **Langage** : Java 17+
 - **Frameworks** : Spring Boot 3, Spring Data JPA, Spring Security
 - **Persistance** : Hibernate, PostgreSQL, MySQL
 - **Tests** : JUnit 5, Mockito
